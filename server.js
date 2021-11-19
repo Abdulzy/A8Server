@@ -23,5 +23,7 @@ app.get('/hello', (req, res) => {
 
 require('./services/movies-service')(app);
 require('./services/tweets-service')(app);
+require('./services/profile-service')(app);
+
 
 app.listen(4000);
