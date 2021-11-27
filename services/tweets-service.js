@@ -1,4 +1,4 @@
-let tweets = require('../data/tweets.json');
+let tweets = require('../data/Tweets.json');
 
 module.exports = (app) => {
     
