@@ -24,7 +24,6 @@ app.get('/hello', (req, res) => {
 });
 
 require('./services/movies-service')(app);
-require('./services/tweets-service')(app);
 require('./services/profile-service')(app);
 require('./movies/service')(app);
 require('./services/tweets-serviceAs9')(app);
