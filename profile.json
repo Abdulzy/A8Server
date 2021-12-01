@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "61a032944841236486c41dfc"
+  },
+  "name": "Abdulrahman Isegen",
+  "handle": "Abdul",
+  "profilePicture": "/a5/images/potrait.png",
+  "bannerPicture": "/a5/images/psg.png",
+  "bio": "Faculty, Software Engineer, AI, Space, and renewable enthusiast. Retweets and likes are not endorsements.",
+  "website": "youtube.com/webdevtv",
+  "location": "Boston, MA",
+  "dateOfBirth": "1999-04-12",
+  "dateJoined": "4/2009",
+  "followingCount": 312,
+  "followersCount": 18000
+}]
